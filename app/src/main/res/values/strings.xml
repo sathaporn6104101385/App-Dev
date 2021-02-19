@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CalculateArea</string>
+    <string name="name">Sathaporn Teekham 6104101385</string>
+    <string name="End">END</string>
+    <string name="Next">NEXT</string>
+    <string name="Msp">Square Meters</string>
+    <string name="Wsp">SquareWa</string>
+    <string name="R">Rai</string>
+    <string name="Ng">Ngan</string>
+    <string name="Exp">Description</string>
+    <string name="read">read</string>
+    <string name="EnterN">Enter Number</string>
+    <string name="Younc">You Not Checked</string>
+    <string name="Youni">You Not Input and Checked</string>
+</resources>

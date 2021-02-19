@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">คำนวณพื้นที่</string>
+    <string name="name">นาย สภาพรตีคำ 6104101385</string>
+    <string name="End">จบ</string>
+    <string name="Next">ต่อไป</string>
+    <string name="Msp">ตารางเมตร</string>
+    <string name="Wsp">ตารางวา</string>
+    <string name="R">ไร่</string>
+    <string name="Ng">งาน</string>
+    <string name="Exp">คำอธิบาย</string>
+    <string name="read">อ่าน</string>
+    <string name="EnterN">กรอกตัวเลข</string>
+    <string name="Younc">คุณไม่ได้เลือกการคำนวน</string>
+    <string name="Youni">คุณไม่ได้กรอกข้อมูลและเลือกการคำนวน</string>
+</resources>

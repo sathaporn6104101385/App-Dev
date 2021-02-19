@@ -1,0 +1,7 @@
+Is an app used for calculating the area This app is made for
+It is something that helps to calculate in school or work.
+How to use
+1. Select the unit you want to calculate
+2. Enter values
+3. Press Equals
+Only there will be an answer coming out.
